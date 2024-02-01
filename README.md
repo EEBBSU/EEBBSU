@@ -1,4 +1,4 @@
-# Ethan Banres BSU github
+# Ethan Barnes BSU github
 
 Hello, my name is Ethan Barnes, and I am currently a student at Boise State University.
 
